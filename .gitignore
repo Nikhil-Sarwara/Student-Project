@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget/
+*.nupkg.metadata/
+*.nuget.props
+*.nuget.targets
+
+# ASP.NET
+wwwroot/
+appsettings.Development.json
+appsettings.Production.json
